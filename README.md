@@ -2,7 +2,7 @@
 **Dynamic Semantic Personalized Path Planning**
 
 Python implementation accompanying the paper:
-> *"Semantic-Aware Personalized Path Planning for Autonomous Navigation with Real-Time Dynamic Obstacle Prediction"*
+> *"Dynamic Semantic Personalized Path Planning for Real-Time Intelligent Autonomous Urban Navigation via Improved A* and Inverse Reinforcement Learning"*
 > Saranya C & Janaki G, SRM Institute of Science & Technology
 
 ---
