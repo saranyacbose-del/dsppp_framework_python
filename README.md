@@ -129,7 +129,7 @@ dpm.stop()
              with Real-Time Dynamic Obstacle Prediction},
   author  = {Saranya, C and Janaki, G},
   journal = {SRM Institute of Science and Technology},
-  year    = {2025}
+  year    = {2026}
 }
 ```
 
